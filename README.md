@@ -1,3 +1,3 @@
 # tangowithdjango
 
-django practice!
+django practice
